@@ -1,9 +1,16 @@
 # MUT Executive Overview
 
-## Club Composition
+## Contents
+1. [Club Composition](#1-club-composition)
+2. [Fall Season](#2-fall-season)
+3. [Spring Season](#3-spring-season)
+4. [Administrative Matters](#4-administrative-matters)
+5. [Events](#5-events)
+
+## 1. Club Composition
 MUT is composed of four teams: mens A and B, and womens A and B. In the past three years, mens A and B and womens A have attended the same tournaments, while womens B has only attended Quebec tournaments and nationals (to lower cost). In general, it is safe to assume that both A teams will attend all tournaments so as to be competitive, and the B teams will decide how they would like to proceed in order to save money. Women's B has also billeted at certain tournaments (which is viable because the team is usually pretty small) to further save money.
 
-## Fall Season
+## 2. Fall Season
 The season runs from the start of school in September until CUUC in mid-October. This is the busiest time of the year and requires that everyone be fully onboard. Tasks need to be completed in a timely manner so make calls and send emails as soon as possible.
 ### Practice Fields
 In the past we have split time between the various fields that McGill has to offer, and Jeanne-Mance Park. McGill's Rutherford field, Molson Stadium, and Forbes field can be rented for very cheap rates, but they are rarely available due to intramurals and other sports teams. Jeanne-Mance has historically been the field for the A teams, while B teams either find other times or use their endzones. 
@@ -40,9 +47,9 @@ This is a bid-earning tournament, but has been scheduled for the same weekend as
 #### Easterns (CEUUC)
 Another bid earning tournament that has previously overlapped Coupe Quebec II. Usually competing teams will elect to attend this tournament because it gives them exposure to Ontario teams before Nationals. In 2018 there was more than one bid available in each division. 
 #### Nationals (CUUC)
+Nationals takes place in mid-October. In the past it has been held in Montreal, Ottawa, and Brampton. For A teams, vans will depart Thursday night if a bid has not been earned, and Friday night if a bid has been earned. B teams will always depart on Friday night.
 
-
-## Spring Season
+## 3. Spring Season
 We have considered competing in the USAU College series, but it has never happened before. Travel may be fairly expensive (depending on tournament locations), and we would have to register with USAU (refer to their website). Furthermore, we would need to find fields to practice on, which would be difficult with Montreal weather. If we do pursue the USAU circuit it is likely we will start with the A teams and expand to the B teams. 
 ### Instructions
 According to USAU, the instructions for signing up are as follows:
@@ -57,7 +64,7 @@ Same as in the Fall. Reserve vans from Enterprise.
 ### Accomodation
 Hotels or AirBnB. AirBnB is usually cheaper in the US so it is more worth considering.
 
-## Administrative Matters
+## 4. Administrative Matters
 ### Publicity
 Tryouts for the Fall Season take place before the start of school (and thus before activities night). Thus, we need to have a very strong online presence through our website and social media accounts.
 
@@ -74,7 +81,7 @@ Fall Activities Night takes place after tryouts. Thus we may not be able to get 
 ### Social Media
 The social media team is responsible for showing off our activities and keeping the fans up to date. This can include occasional posts and pictures summarizing our work, as well potentially having live score updates. They also need to post for our sponsors.
 
-## Events
+## 5. Events
 ### Unleashed and Untrained
 A fundraising tournament hosted each year by the club to raise funds for the next year. The tournament usually takes place in mid-October after CUUC. We invite teams from the nearby area (they do not need to be affiliated with schools) to come to Montreal for a weekend of ultimate, along with a Montreal bagels, a BBQ lunch, and a tournament party. Teams are invited to billet with members of MUT so that they do not need to pay for housing.
 ### Banquet
