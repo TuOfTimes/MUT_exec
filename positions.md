@@ -4,26 +4,23 @@
 The president is responsible for ensuring that the club operates smoothly.
 
 ## Vice President
-The second in command in the club. S/he is responsible for keeping the club in check when the President is not around, and for answering to the President.
+The second in command. S/he will split responsibilities with the President to ensure that the club runs smoothly. These responsibilities may include: planning and organizing tryouts, booking hotels and transportation for tournaments, submitting bids and ensuring that all player information (ex. proof of enrollment, Ultimate Canada/FQU numbers) is accounted for, etc.
 
 ## Vice President - Finance
 Responsible for handling all the money that flows into and out of the club. S/he should keep clean records of all transactions, including supporting documents, and perform the club audit at the end of the Fall and Winter semesters.
 
-## Logistics
-Responsible for booking transportation and accomodation for all teams during the season. After the end of the season, s/he is responsible for organizing intramurals and other pick-up games.
-
 ## Outreach
-Responsible for engaging and expanding the MUT community. This includes tabling at the Y intersection during OAP and organizing materials and volunteers for Fall and Winter activities night.
+Responsible for engaging and expanding the MUT community. This includes tabling at the Y intersection during OAP and organizing materials and volunteers for Fall and Winter activities night. This year we are also going to try and host workshops and pickup games to get other people involved.
 
 ## Fundraising
-Responsible for raising funds for the team as a whole. This includes tabling to sell samosas, churros, etc. as well as any other means of fundraising that one can come up with. Could also be responsible for finding sponsorships (which need to be confirmed with SSMU).
+Responsible for raising funds for the team as a whole. This includes tabling to sell samosas, churros, etc. as well as any other means of fundraising that one can come up with. S/he would also be responsible for finding sponsorship and confirming them with SSMU.
 
 ## U&U and Events (2 people)
-U&U is McGill's very own fundraising tournament, held annually in the Fall. The tournament takes a lot of preparation and organization, so this year we are putting two people in charge. After the season, these two execs will be responsible for organizing and publicizing "fun" events that will keep the team engaged and socializing (ex. apartment crawls, laser tag, etc.)
+U&U is MUT's very own fundraising tournament, held annually in the Fall. The tournament takes a lot of preparation and organization, so this year we are putting two people in charge. These execs will also be responsible for organizing the Banquet at the end of the season, as well as "fun" events that will keep the team engaged and socializing into the winter semester (ex. apartment crawls, laser tag, etc.).
 
 ## Other Positions
 ### Photographer
-We're hoping to have someone who doesn't play come out to our tournaments and take photos. We would cover transportation and accomodation and they'd come hang out (ideally a former player that is no longer eligible).
+This position would ideally be held by someone who does not plan on playing with a team, but wants to hang out and come along to tournaments. S/he would travel with us to tournaments (transportation and accommodation completely covered) and take photos of the teams as they play. Prior experience is preferred but not mandatory.
 
 ### Social Media
-Post on social media and respond to messages on social media.
+Engage the online community. This may include posting tournament results on Twitter and exciting photos on Instagram, as well as responding to emails and messages on social media.
